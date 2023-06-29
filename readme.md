@@ -1,0 +1,1 @@
+https://github.com/Excalibro1/fast-stable-diffusionwik/wiki/fast-stable-diffusion-wiki
